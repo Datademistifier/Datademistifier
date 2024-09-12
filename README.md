@@ -6,9 +6,9 @@
 
 ### 🚀 About Me
 
-- 🎓 MS in Management Information Systems (Expected: August 2024)
+- 🎓 MS in Management Information Systems (August 2024)
 - 💼 2+ years of experience in database engineering and data analytics
-- 🏆 Mays Business School Excellence Scholarship recipient
+- 🏆 Mays Business School,  Ex Tata Consultancy Services, Ex Infosys
 - 🌟 Passionate about building scalable data solutions and driving insights through efficient data architectures
 
 ### 💻 Technical Skills
